@@ -10,6 +10,19 @@
 좋은 개발자가 되기 위해 노력하고 있습니다. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+가나다라마ㅏㅂ
+
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 <!--
 ```c
