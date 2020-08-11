@@ -1,10 +1,11 @@
 ## 안녕하세요! 🖐🏻
 
-<div align=right>
-  
+<div align=center>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fname-yoonjae)](https://hits.seeyoufarm.com)
 
 </div>
+
 
 저는 Java를 공부 중인 학생 개발자입니다.  
 좋은 개발자가 되기 위해 노력하고 있습니다. 
