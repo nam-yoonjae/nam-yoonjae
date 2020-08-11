@@ -7,21 +7,13 @@
 </div>
 
 저는 Java를 공부 중인 학생 개발자입니다.  
-좋은 개발자가 되기 위해 노력하고 있습니다. 
+좋은 개발자가 되기 위해 노력하고 있습니다.
 
 
 
-
-
-
-
-
-
-
-
-
-
-가나다라마ㅏㅂ
+가나다라마ㅏㅂ사아자차카타파하 엔터한번치고
+여기서그다음쭉가다가ㅕ스페이스바한번 스페이스바두번  엔터한번
+아아아아
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 <!--
