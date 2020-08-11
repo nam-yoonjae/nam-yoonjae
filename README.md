@@ -26,6 +26,8 @@ int main(void){
       * 깃 Commit 1)
       * 깃 Commit 2)
 
+인용구문은 >(꺽쇠)를 이용해서 작성할 수 있습니다.
+> 문장 시작에 '>' 를 붙여서 사용할 수 있어요.
 
 <!--
 **nam-yoonjae/nam-yoonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
