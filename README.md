@@ -29,6 +29,23 @@ int main(void){
 인용구문은 >(꺽쇠)를 이용해서 작성할 수 있습니다.
 > 문장 시작에 '>' 를 붙여서 사용할 수 있어요.
 
+이름|영어|정보|수학
+---|---|---|---|
+홍길동|98점|92점|87점
+장보고|81점|88점|90점
+
+강조는 다음과 같이 할 수 있습니다.  
+**치킨**먹다가 ~~두드러기~~ 났어요ㅠㅠ!
+
+
+
+
+
+
+
+
+
+
 <!--
 **nam-yoonjae/nam-yoonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
