@@ -10,7 +10,7 @@
 
 좋은 개발자가 되기 위해 노력하고 있습니다.
 
-[최근 웹프로젝트 "Habit" Repository](https://github.com/nam-yoonjae/HABIT-project#facepunch-2020-tis-project-habit-have-it-facepunch)
+[최근 웹프로젝트 "Habit" Repository 바로가기](https://github.com/nam-yoonjae/HABIT-project#facepunch-2020-tis-project-habit-have-it-facepunch)
 
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
