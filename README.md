@@ -6,7 +6,7 @@
 
 </div>
 
-![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=name-yoonjae&show_icons=true)
+![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 
 저는 Java를 공부 중인 학생 개발자입니다.  
 좋은 개발자가 되기 위해 노력하고 있습니다. 
