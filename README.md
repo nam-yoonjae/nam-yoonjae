@@ -13,7 +13,8 @@
 
 가나다라마ㅏㅂ사아자차카타파하 엔터한번치고
 여기서그다음쭉가다가ㅕ스페이스바한번 스페이스바두번  엔터한번
-아아아아
+아아아아이것도안되냐??그럼스페이스바두번에엔터한번  
+이것마저안되냐??
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 <!--
