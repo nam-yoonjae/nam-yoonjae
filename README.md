@@ -11,6 +11,8 @@
 저는 [프리미엄패스인터내셔널](http://tothepp.com/){:target="_blank"}
 에서 IT플랫폼 개발자로 근무하고 있습니다.
 
+저는 <a href="http://tothepp.com/" target="_blank">프리미엄패스인터내셔널</a>에서 IT플랫폼 개발자로 근무하고 있습니다.
+
 메일: <yjnam@tothepp.com>
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
