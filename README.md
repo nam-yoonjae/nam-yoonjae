@@ -6,12 +6,11 @@
 
 </div>
 
-저는 Java를 공부 중인 학생입니다.
+저의 Repository에 오신 것을 환영합니다!
 
-좋은 개발자가 되기 위해 노력하고 있습니다.
+저는 [프리미엄패스인터내셔널](http://tothepp.com) 에서 IT플랫폼 개발자로 근무하고 있습니다.
 
-[최근 웹프로젝트 "Habit" Repository 바로가기](https://github.com/nam-yoonjae/HABIT-project#facepunch-2020-tis-project-habit-have-it-facepunch)
-
+메일: <yjnam@tothepp.com>
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 <!--
