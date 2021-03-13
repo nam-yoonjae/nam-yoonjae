@@ -8,7 +8,7 @@
 
 저의 Repository에 오신 것을 환영합니다!
 
-메일 <yjnam@tothepp.com>
+메일 <nam8644@gmail.com>
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
 <!--
