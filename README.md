@@ -8,8 +8,6 @@
 
 저의 Repository에 오신 것을 환영합니다!
 
-저는 [프리미엄패스인터내셔널](http://tothepp.com/)에서 IT플랫폼 개발자로 근무하고 있습니다.
-
 메일 <yjnam@tothepp.com>
 
 ![Cheeeeze's github stats](https://github-readme-stats.vercel.app/api?username=nam-yoonjae&show_icons=true)
